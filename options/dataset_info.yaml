@@ -1,0 +1,4 @@
+demo:
+  class:
+  - samples
+  frame: false

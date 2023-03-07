@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/kuga/Workspace/EMLB/build",
+  "command": "/usr/bin/g++ -Dcdn_utils_EXPORTS -I/usr/local/cuda-11.6/include -I/usr/local/TensorRT-8.4.2.4/include -I/home/kuga/Workspace/EMLB/include -isystem /home/kuga/Workspace/EMLB/extern/pybind11/include -isystem /usr/include/python3.8 -Wno-error=deprecated-declarations -Wno-deprecated-declarations  -O3 -DNDEBUG -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/cdn_utils.dir/scripts/src/BackgroundActivityFilter.cpp.o -c /home/kuga/Workspace/EMLB/scripts/src/BackgroundActivityFilter.cpp",
+  "file": "/home/kuga/Workspace/EMLB/scripts/src/BackgroundActivityFilter.cpp"
+},
+{
+  "directory": "/home/kuga/Workspace/EMLB/build",
+  "command": "/usr/bin/g++ -Dcdn_utils_EXPORTS -I/usr/local/cuda-11.6/include -I/usr/local/TensorRT-8.4.2.4/include -I/home/kuga/Workspace/EMLB/include -isystem /home/kuga/Workspace/EMLB/extern/pybind11/include -isystem /usr/include/python3.8 -Wno-error=deprecated-declarations -Wno-deprecated-declarations  -O3 -DNDEBUG -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/cdn_utils.dir/scripts/src/DoubleWindowFilter.cpp.o -c /home/kuga/Workspace/EMLB/scripts/src/DoubleWindowFilter.cpp",
+  "file": "/home/kuga/Workspace/EMLB/scripts/src/DoubleWindowFilter.cpp"
+},
+{
+  "directory": "/home/kuga/Workspace/EMLB/build",
+  "command": "/usr/bin/g++ -Dcdn_utils_EXPORTS -I/usr/local/cuda-11.6/include -I/usr/local/TensorRT-8.4.2.4/include -I/home/kuga/Workspace/EMLB/include -isystem /home/kuga/Workspace/EMLB/extern/pybind11/include -isystem /usr/include/python3.8 -Wno-error=deprecated-declarations -Wno-deprecated-declarations  -O3 -DNDEBUG -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/cdn_utils.dir/scripts/src/EventDenoiseConvNeuralNetwork.cpp.o -c /home/kuga/Workspace/EMLB/scripts/src/EventDenoiseConvNeuralNetwork.cpp",
+  "file": "/home/kuga/Workspace/EMLB/scripts/src/EventDenoiseConvNeuralNetwork.cpp"
+},
+{
+  "directory": "/home/kuga/Workspace/EMLB/build",
+  "command": "/usr/bin/g++ -Dcdn_utils_EXPORTS -I/usr/local/cuda-11.6/include -I/usr/local/TensorRT-8.4.2.4/include -I/home/kuga/Workspace/EMLB/include -isystem /home/kuga/Workspace/EMLB/extern/pybind11/include -isystem /usr/include/python3.8 -Wno-error=deprecated-declarations -Wno-deprecated-declarations  -O3 -DNDEBUG -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/cdn_utils.dir/scripts/src/MultiLayerPerceptronFilter.cpp.o -c /home/kuga/Workspace/EMLB/scripts/src/MultiLayerPerceptronFilter.cpp",
+  "file": "/home/kuga/Workspace/EMLB/scripts/src/MultiLayerPerceptronFilter.cpp"
+},
+{
+  "directory": "/home/kuga/Workspace/EMLB/build",
+  "command": "/usr/bin/g++ -Dcdn_utils_EXPORTS -I/usr/local/cuda-11.6/include -I/usr/local/TensorRT-8.4.2.4/include -I/home/kuga/Workspace/EMLB/include -isystem /home/kuga/Workspace/EMLB/extern/pybind11/include -isystem /usr/include/python3.8 -Wno-error=deprecated-declarations -Wno-deprecated-declarations  -O3 -DNDEBUG -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/cdn_utils.dir/scripts/src/edn.cpp.o -c /home/kuga/Workspace/EMLB/scripts/src/edn.cpp",
+  "file": "/home/kuga/Workspace/EMLB/scripts/src/edn.cpp"
+}
+]
